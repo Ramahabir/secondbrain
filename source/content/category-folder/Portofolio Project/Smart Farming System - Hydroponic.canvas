@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"da4ac25bcd01a3d8","type":"text","text":"Smart Farming\n","x":-305,"y":-20,"width":250,"height":60},
+		{"id":"47568483d580b39a","type":"text","text":"Konsep - Lokasi","x":140,"y":-110,"width":250,"height":50},
+		{"id":"52d3fe6caa248e0c","type":"text","text":"Lokasi - Konsep","x":140,"y":-20,"width":250,"height":60},
+		{"id":"0390837490f70ec3","type":"text","text":"Tumbuhan:\n- Bayam\n- Kunyit\n- Sawit\n- Tomat\n- Jagung\n- Kangkung\n- Jahe\n- Cabe\n- Padi\n- Gandum\n- Bawang\n- Kacang","x":140,"y":80,"width":250,"height":380},
+		{"id":"fc3e1a7a4fcb50a7","type":"text","text":"Hidroponik","x":480,"y":-110,"width":250,"height":50},
+		{"id":"2e77e9b4fcb0182e","type":"text","text":"Bayam\n","x":820,"y":-115,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"542b4fcf6c2978ab","fromNode":"da4ac25bcd01a3d8","fromSide":"right","toNode":"47568483d580b39a","toSide":"left"},
+		{"id":"9ca4d0599722ef1b","fromNode":"da4ac25bcd01a3d8","fromSide":"right","toNode":"52d3fe6caa248e0c","toSide":"left"},
+		{"id":"e0aea6a5cecbcf42","fromNode":"da4ac25bcd01a3d8","fromSide":"right","toNode":"0390837490f70ec3","toSide":"left"},
+		{"id":"e77f4964307e66cb","fromNode":"47568483d580b39a","fromSide":"right","toNode":"fc3e1a7a4fcb50a7","toSide":"left"},
+		{"id":"245252a5aad9befe","fromNode":"fc3e1a7a4fcb50a7","fromSide":"right","toNode":"2e77e9b4fcb0182e","toSide":"left"}
+	]
+}
