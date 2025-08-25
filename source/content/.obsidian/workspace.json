@@ -11,20 +11,17 @@
             "id": "2d8837e6263008e3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "Tugas.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "category-folder/Portofolio Project/Smart Farming System - Hydroponic.canvas",
+                "viewState": {
+                  "x": 382.5,
+                  "y": 172.5,
+                  "zoom": -0.343550906587158
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Tugas"
+              "icon": "lucide-layout-dashboard",
+              "title": "Smart Farming System - Hydroponic"
             }
           }
         ]
@@ -174,13 +171,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "index.md",
+    "category-folder/Portofolio Project/Smart Farming System - Hydroponic.canvas",
+    "Excalidraw/Drawing 2025-08-25 14.48.12.excalidraw.md",
+    "Excalidraw",
+    "category-folder/Portofolio Project/Smart Solar Panel Prediction.md",
+    "Content/DTD 1-SISTEM BILANGAN.pdf",
     "Tugas.md",
+    "index.md",
     "category-folder/🎓 Kuliah/Semester 3/Dasar Teknik Digital.md",
     "Content/[Roger_L._Freeman]_Fundamentals_of_Telecommunicati(BookFi).pdf",
     "Content/WhatsApp Image 2025-08-25 at 10.04.08_f3fc2634.jpg",
@@ -190,16 +193,12 @@
     "Content/kuliah 3 konsep dB sigit 2022_brone.pptx",
     "Content/kuliah 3 konsep dB sigit 2022_brone 1.pptx",
     "Content/DTD 3- GERBANG LOGIKA - ALJBR BOOLE.pdf",
-    "Content/DTD 1-SISTEM BILANGAN.pdf",
     "Content/(ok) RPS_TKE60213 _RANGAKAIAN ELEKTRIK ARUS BOLAK BALIK & PRAKTIKUM.docx",
     "Content/(ok) RPS_TKE60213 _RANGAKAIAN ELEKTRIK ARUS BOLAK BALIK & PRAKTIKUM 2.docx",
-    "Content/(ok) RPS_TKE60213 _RANGAKAIAN ELEKTRIK ARUS BOLAK BALIK & PRAKTIKUM 1.docx",
     "category-folder/🎓 Kuliah/Semester 3/REAC - Pak Rusli.md",
     "category-folder/Some note.md",
     "category-folder/index.md",
     "category-folder/🎓 Kuliah/Semester 3/Teknik Telekomunikasi - Pak Sigit.md",
-    "category-folder/🎓 Kuliah/Semester 3/Sistem Kontrol - Pak Rusli.md",
-    "category-folder/Portofolio Project/Smart Solar Panel Prediction.md",
-    "category-folder/Portofolio Project/Smart Farming System - Hydroponic.canvas"
+    "category-folder/🎓 Kuliah/Semester 3/Sistem Kontrol - Pak Rusli.md"
   ]
 }
