@@ -18,6 +18,7 @@ kanban-plugin: board
 ## Done
 
 - [ ] Note - Siskon
+- [ ] Deploy Obsidian Page
 
 
 
