@@ -11,17 +11,14 @@
             "id": "2d8837e6263008e3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "category-folder/Portofolio Project/Smart Farming System - Hydroponic.canvas",
-                "viewState": {
-                  "x": 382.5,
-                  "y": 172.5,
-                  "zoom": -0.343550906587158
-                }
+                "file": "category-folder/🎓 Kuliah/Semester 3/Dasar Teknik Digital.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Smart Farming System - Hydroponic"
+              "icon": "lucide-file",
+              "title": "Dasar Teknik Digital"
             }
           }
         ]
@@ -175,14 +172,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "WhatsApp Image 2025-08-25 at 17.28.22_bf0e09ea.jpg",
+    "WhatsApp Image 2025-08-25 at 17.28.22_b2ca5d02.jpg",
+    "WhatsApp Image 2025-08-25 at 17.28.22_19b742a3 1.jpg",
+    "WhatsApp Image 2025-08-25 at 17.28.22_19b742a3.jpg",
+    "WhatsApp Image 2025-08-25 at 17.28.21_610da47c.jpg",
+    "Tugas.md",
     "category-folder/Portofolio Project/Smart Farming System - Hydroponic.canvas",
     "Excalidraw/Drawing 2025-08-25 14.48.12.excalidraw.md",
     "Excalidraw",
     "category-folder/Portofolio Project/Smart Solar Panel Prediction.md",
     "Content/DTD 1-SISTEM BILANGAN.pdf",
-    "Tugas.md",
     "index.md",
     "category-folder/🎓 Kuliah/Semester 3/Dasar Teknik Digital.md",
     "Content/[Roger_L._Freeman]_Fundamentals_of_Telecommunicati(BookFi).pdf",

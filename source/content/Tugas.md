@@ -13,6 +13,8 @@ kanban-plugin: board
 
 ## In-Progress
 
+- [ ] Tupen - PSD
+- [ ] Note - DTD
 
 
 ## Done
