@@ -7,11 +7,13 @@ kanban-plugin: board
 ## To-Do
 
 - [ ] Door System - AICenter
+- [ ] Codingame
 
 
 ## In-Progress
 
 - [ ] STM32 Servo - Robotic
+- [ ] STM32 USB
 
 
 ## Done
@@ -21,6 +23,7 @@ kanban-plugin: board
 - [ ] Solder STM32
 - [ ] Tupen - PSD
 - [ ] Deploy Obsidian Page
+- [ ] PSD - Praktikum Bab 1
 
 
 
