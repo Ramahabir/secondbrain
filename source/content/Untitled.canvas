@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"44c293216488e615","type":"text","text":"RISET","x":-35,"y":-80,"width":250,"height":60},
+		{"id":"18b8cc10c136e87d","type":"text","text":"Tumbuhan yang dipakai\nKENTANG","x":-440,"y":213,"width":250,"height":60},
+		{"id":"266503059927887e","type":"text","text":"Cairan pupuk tanaman","x":260,"y":213,"width":250,"height":60,"color":"#ffd500"},
+		{"id":"fed722b4f0cd63a6","type":"text","text":"3D DESIGN","x":-35,"y":-220,"width":250,"height":60},
+		{"id":"5f2fa2a1d7305ed8","type":"text","text":"Design","x":300,"y":-220,"width":250,"height":60},
+		{"id":"fe3c751a3a011a9b","type":"text","text":"IoT & AI","x":-420,"y":-220,"width":250,"height":60},
+		{"id":"2dad6e096e18e6c5","type":"text","text":"Kelebihan & Kekurangan\nDesain Aeroponik","x":-80,"y":213,"width":250,"height":60,"color":"#ffffff"},
+		{"id":"beb4f79c62f16d3f","type":"text","text":"Penyakit tumbuhan\nPertumbuhan tanaman","x":-150,"y":405,"width":250,"height":60,"color":"4"},
+		{"id":"d2008bf2829cbadd","type":"text","text":"Kondisi Optimal tumbuhan (Ph, Oksigen, kadar udara, temperature)","x":-450,"y":405,"width":250,"height":155,"color":"1"},
+		{"id":"a12f7071b7136f00","type":"text","text":"diagrams, labelled illustrations, or conceptual layouts","x":300,"y":-420,"width":250,"height":120},
+		{"id":"dfe2e60514d4b44a","type":"text","text":"","x":359,"y":-360,"width":250,"height":60},
+		{"id":"a9edbacda9138e01","type":"text","text":"Variabel Ruangan yang optimal","x":560,"y":213,"width":250,"height":60,"color":"6"},
+		{"id":"d5b5d7f898bd4870","x":-450,"y":640,"width":250,"height":60,"color":"1","type":"text","text":"Jenis Kentang"}
+	],
+	"edges":[
+		{"id":"e65d13a2da0df910","fromNode":"44c293216488e615","fromSide":"bottom","toNode":"18b8cc10c136e87d","toSide":"top"},
+		{"id":"d5414dd368453092","fromNode":"44c293216488e615","fromSide":"bottom","toNode":"266503059927887e","toSide":"top"},
+		{"id":"56da4f143c795eb5","fromNode":"44c293216488e615","fromSide":"bottom","toNode":"a9edbacda9138e01","toSide":"top"},
+		{"id":"33016cd3d26968fe","fromNode":"18b8cc10c136e87d","fromSide":"bottom","toNode":"beb4f79c62f16d3f","toSide":"top"},
+		{"id":"2fa7efb84e9a8172","fromNode":"44c293216488e615","fromSide":"bottom","toNode":"2dad6e096e18e6c5","toSide":"top"},
+		{"id":"d94e7ec0d627120c","fromNode":"18b8cc10c136e87d","fromSide":"bottom","toNode":"d2008bf2829cbadd","toSide":"top"},
+		{"id":"89e49486a1904d50","fromNode":"d2008bf2829cbadd","fromSide":"bottom","toNode":"d5b5d7f898bd4870","toSide":"top"}
+	]
+}

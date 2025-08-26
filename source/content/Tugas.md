@@ -7,19 +7,19 @@ kanban-plugin: board
 ## To-Do
 
 - [ ] Door System - AICenter
-- [ ] STM32 Servo - Robotic
-- [ ] Solder STM32
 
 
 ## In-Progress
 
-- [ ] Tupen - PSD
-- [ ] Note - DTD
+- [ ] STM32 Servo - Robotic
 
 
 ## Done
 
 - [ ] Note - Siskon
+- [ ] Note - DTD
+- [ ] Solder STM32
+- [ ] Tupen - PSD
 - [ ] Deploy Obsidian Page
 
 
