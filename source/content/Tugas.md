@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] Door System - AICenter
 - [ ] Codingame
+- [ ] Riset Kekurangan dan kelebihan sistem Aeroponik - Kamis
 
 
 ## In-Progress
