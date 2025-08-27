@@ -25,20 +25,12 @@
             "id": "852f8973c4aa5c97",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "image",
               "state": {
-                "file": "Tugas.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Content/WhatsApp Image 2025-08-27 at 09.37.27_cc3e7fc8.jpg"
               },
-              "icon": "lucide-trello",
-              "title": "Tugas"
+              "icon": "lucide-image",
+              "title": "WhatsApp Image 2025-08-27 at 09.37.27_cc3e7fc8"
             }
           }
         ],
@@ -193,12 +185,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "852f8973c4aa5c97",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "Tugas.md",
-    "category-folder/🎓 Kuliah/Semester 3/Sinyal dan Sistem - Pak Ali.md",
     "category-folder/🎓 Kuliah/Semester 3/REAC - Pak Rusli.md",
+    "Content/WhatsApp Image 2025-08-27 at 09.37.27_cc3e7fc8.jpg",
+    "Content/WhatsApp Image 2025-08-27 at 09.28.41_9f617cf3.jpg",
+    "Content/WhatsApp Image 2025-08-27 at 09.01.31_ee9204ab.jpg",
+    "Content/WhatsApp Image 2025-08-27 at 09.01.31_b5f1e857.jpg",
+    "Tugas.md",
+    "category-folder/index.md",
+    "category-folder/🎓 Kuliah/Semester 3/Sinyal dan Sistem - Pak Ali.md",
     "category-folder/🎓 Kuliah/Semester 3/Sistem Kontrol - Pak Rusli.md",
     "category-folder/🎓 Kuliah/Semester 3/Teknik Telekomunikasi - Pak Sigit.md",
     "category-folder/🎓 Kuliah/Semester 3/Probabilitas dan Statistika - Pak Ali.md",
@@ -219,7 +215,6 @@
     "Content/DTD 1-SISTEM BILANGAN.pdf",
     "Content/[Roger_L._Freeman]_Fundamentals_of_Telecommunicati(BookFi).pdf",
     "Content/WhatsApp Image 2025-08-25 at 10.04.08_f3fc2634.jpg",
-    "Content/WhatsApp Image 2025-08-25 at 10.04.08_c8a1f5ed.jpg",
     "Content/Penyederhanaan Logika dengan Aljabar Boole + latihan soal.pdf",
     "Content/Modern Control Engineering-Katsuhiko Ogata (Prentice Hall 2010)(904s) 1.pdf",
     "Content/kuliah 3 konsep dB sigit 2022_brone.pptx",
