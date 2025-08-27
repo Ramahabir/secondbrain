@@ -25,12 +25,14 @@
             "id": "852f8973c4aa5c97",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Content/WhatsApp Image 2025-08-27 at 09.37.27_cc3e7fc8.jpg"
+                "file": "category-folder/🎓 Kuliah/Semester 3/Teknik Telekomunikasi - Pak Sigit.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "WhatsApp Image 2025-08-27 at 09.37.27_cc3e7fc8"
+              "icon": "lucide-file",
+              "title": "Teknik Telekomunikasi - Pak Sigit"
             }
           }
         ],
@@ -185,14 +187,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "852f8973c4aa5c97",
   "lastOpenFiles": [
-    "category-folder/🎓 Kuliah/Semester 3/REAC - Pak Rusli.md",
+    "RPS teknik telekomunikasi 2023 kolaboratif.pdf",
+    "Content/~$kuliah 3 konsep dB sigit 2022_brone.pptx",
+    "Tugas.md",
     "Content/WhatsApp Image 2025-08-27 at 09.37.27_cc3e7fc8.jpg",
+    "category-folder/🎓 Kuliah/Semester 3/REAC - Pak Rusli.md",
     "Content/WhatsApp Image 2025-08-27 at 09.28.41_9f617cf3.jpg",
     "Content/WhatsApp Image 2025-08-27 at 09.01.31_ee9204ab.jpg",
     "Content/WhatsApp Image 2025-08-27 at 09.01.31_b5f1e857.jpg",
-    "Tugas.md",
     "category-folder/index.md",
     "category-folder/🎓 Kuliah/Semester 3/Sinyal dan Sistem - Pak Ali.md",
     "category-folder/🎓 Kuliah/Semester 3/Sistem Kontrol - Pak Rusli.md",
@@ -221,7 +225,6 @@
     "Content/kuliah 3 konsep dB sigit 2022_brone 1.pptx",
     "Content/DTD 3- GERBANG LOGIKA - ALJBR BOOLE.pdf",
     "Content/(ok) RPS_TKE60213 _RANGAKAIAN ELEKTRIK ARUS BOLAK BALIK & PRAKTIKUM.docx",
-    "Content/(ok) RPS_TKE60213 _RANGAKAIAN ELEKTRIK ARUS BOLAK BALIK & PRAKTIKUM 2.docx",
     "category-folder/Some note.md"
   ]
 }
