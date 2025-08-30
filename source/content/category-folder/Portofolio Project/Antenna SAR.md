@@ -2,7 +2,7 @@ Oke siap 🔧 kita ubah ke bahasa Indonesia biar lebih enak dipahami.
 
 ![[Pasted image 20250830163815.png]]
 ---
-
+![[Pasted image 20250830230111.png]]
 # 📡 Antena J-Pole VHF (155 MHz)
 
 ### 🎯 Target Spesifikasi
