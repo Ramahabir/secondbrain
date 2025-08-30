@@ -1,5 +1,6 @@
 Oke siap 🔧 kita ubah ke bahasa Indonesia biar lebih enak dipahami.
 
+![[Pasted image 20250830163815.png]]
 ---
 
 # 📡 Antena J-Pole VHF (155 MHz)
