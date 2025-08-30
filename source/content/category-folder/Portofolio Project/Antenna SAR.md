@@ -1,109 +1,109 @@
-Perfect — let’s build you a **student-friendly VHF J-pole**: cheap, portable, and no need for exotic materials. This will be tuned around **155 MHz** (the middle of 136–174 MHz band, so you’ll cover SAR HT frequencies just fine).
+Oke siap 🔧 kita ubah ke bahasa Indonesia biar lebih enak dipahami.
 
 ---
 
-# 📡 VHF J-Pole Antenna (155 MHz)
+# 📡 Antena J-Pole VHF (155 MHz)
 
-### 🎯 Target specs
+### 🎯 Target Spesifikasi
 
-- Frequency: **155 MHz**
+- Frekuensi kerja: **155 MHz** (tengah dari 136–174 MHz → pas buat HT SAR)
     
-- Bandwidth: covers ~136–174 MHz (with VSWR < 2 if tuned right)
+- Bandwidth: bisa cover 136–174 MHz dengan **VSWR < 2** kalau tuning bagus
     
-- Gain: ~3 dBi (better than stock duck)
+- Gain: sekitar **3 dBi** (jauh lebih baik dari antena bawaan/duck)
     
-- Length: about **1.5 m tall**
-    
-
----
-
-## 🛠️ Materials (budget/student-friendly)
-
-- **Copper wire** (2–3 mm diameter, ~2 m long) → common electrical wire works.
-    
-- **PVC pipe** (1.5 m long, ~½ inch diameter) → as the antenna “mast” and support.
-    
-- **50 Ω coax** (RG-58 is cheap, ~2–3 m length for portable use).
-    
-- **SMA/BNC connector** → to match your HT (depends on model).
-    
-- Electrical tape, zip ties, or hot glue → to mount wire to PVC.
-    
-- Soldering iron + solder (for connecting coax).
-    
-
-💡 Total cost: a few dollars if you recycle some parts.
-
----
-
-## 📏 Dimensions (cut lengths)
-
-Using formulas:
-
-- **¼λ stub leg (short side):** 48.4 cm
-    
-- **½λ radiator (long side):** 96.8 cm
-    
-- **Bottom shorting bar:** keep **~2.5 cm** between stub and radiator bottoms (shorted together with wire).
-    
-- **Feed point:** connect coax **~5–10 cm up from the shorted bottom** (this is the “sweet spot” — you’ll slide/test for lowest VSWR).
-    
-
-So your antenna looks like a “J”: one long leg (radiator) and one shorter leg (matching stub).
-
----
-
-## 🔧 Assembly Steps
-
-1. **Cut the copper wire**:
-    
-    - One piece = 97 cm (radiator).
-        
-    - One piece = 48.5 cm (stub).
-        
-2. **Mount on PVC pipe**:
-    
-    - Tape or zip-tie both wires vertically on the pipe, spaced ~2.5 cm apart.
-        
-    - Join the bottoms with a small copper jumper (the “J” base).
-        
-3. **Connect coax feedline**:
-    
-    - Strip coax end: inner conductor to radiator, shield to stub.
-        
-    - Solder at ~7 cm above bottom (adjust later if VSWR is high).
-        
-    - Use electrical tape/zip tie for strain relief.
-        
-4. **Waterproof & reinforce**:
-    
-    - Cover solder joints with hot glue/epoxy.
-        
-    - Heat-shrink tubing if available.
-        
-5. **Mount and test**:
-    
-    - Hang it vertically (tree branch, pole, tent mast).
-        
-    - Use SWR meter or antenna analyzer to test → slide feed point up/down until <2:1 SWR.
-        
-
----
-
-## 📦 Portability Tips
-
-- Use flexible **stranded copper wire** → easier to roll.
-    
-- Instead of PVC pipe, you can just hang the antenna wire “dangling” vertically from paracord.
-    
-- For backpacking: coil it up, tie with Velcro, and you’re good.
+- Panjang total: kurang lebih **1,5 meter**
     
 
 ---
 
-✅ Result:  
-A lightweight, cheap J-pole you can build in an afternoon. Gain will feel noticeably better than HT stock antenna, especially when mounted higher.
+## 🛠️ Material (hemat & ramah mahasiswa)
+
+- **Kawat tembaga** diameter 2–3 mm (butuh sekitar 2 meter). Bisa pakai kabel listrik tunggal.
+    
+- **Pipa PVC** panjang 1,5 meter (diameter ½ inci cukup). Jadi tiang penyangga antena.
+    
+- **Kabel coaxial 50Ω** (RG-58, 2–3 meter cukup untuk versi portable).
+    
+- **Konektor** sesuai HT (SMA, BNC, atau PL-259).
+    
+- **Isolasi listrik / cable ties** untuk mengikat kawat ke PVC.
+    
+- **Timah & solder** buat sambungan kabel.
+    
+
+💡 Biaya total: murah banget kalau pakai bahan bekas/recycle.
 
 ---
 
-Do you want me to also calculate **scaled dimensions for UHF (435 MHz)** so you can build a second one, or do you want to keep it strictly VHF for now?
+## 📏 Dimensi (panjang potongan kawat)
+
+Dihitung dari rumus λ/4 dan λ/2 untuk 155 MHz:
+
+- **¼ λ (stub pendek):** 48,4 cm
+    
+- **½ λ (radiator panjang):** 96,8 cm
+    
+- **Jarak antar kaki (stub & radiator):** sekitar **2,5 cm**
+    
+- **Titik feed (kabel coax):** sambung di **5–10 cm dari bawah** (cari posisi SWR paling rendah).
+    
+
+Jadi bentuknya kayak huruf **J**: satu kaki panjang (radiator), satu kaki lebih pendek (stub).
+
+---
+
+## 🔧 Cara Perakitan
+
+1. **Potong kawat tembaga**:
+    
+    - Satu potong = 97 cm (radiator).
+        
+    - Satu potong = 48,5 cm (stub).
+        
+2. **Tempel ke pipa PVC**:
+    
+    - Ikat kedua kawat sejajar di pipa PVC dengan jarak 2,5 cm.
+        
+    - Hubungkan bagian bawah kedua kawat dengan jumper kawat tembaga kecil (membuat huruf J).
+        
+3. **Pasang kabel coax**:
+    
+    - Kupas ujung coax → inner conductor ke radiator, shield ke stub.
+        
+    - Solder di titik sekitar 7 cm dari bawah (bisa digeser naik-turun untuk tuning).
+        
+    - Ikat dengan isolasi biar kuat.
+        
+4. **Finishing**:
+    
+    - Tutup sambungan solder dengan lem tembak / isolasi.
+        
+    - Kalau ada heat-shrink tubing lebih bagus.
+        
+5. **Uji coba**:
+    
+    - Pasang antena vertikal (bisa digantung di pohon, tiang, atau tongkat tracking).
+        
+    - Cek SWR → geser posisi feed point sampai dapat SWR < 2.
+        
+
+---
+
+## 📦 Tips Portabilitas
+
+- Kalau mau ringan, pakai **kawat tembaga serabut (flexible)** → bisa digulung masuk tas.
+    
+- Pipa PVC bisa diganti dengan **tali/paracord** → antena digantung lurus ke bawah.
+    
+- Untuk dibawa: gulung kawat, ikat pakai velcro → masuk ransel.
+    
+
+---
+
+✅ Hasil akhirnya:  
+Antena **murah, ringan, portable, dan lebih kuat sinyalnya** daripada antena bawaan HT. Cocok buat operasi SAR di lapangan.
+
+---
+
+Mau saya bikinkan juga versi **UHF (sekitar 435 MHz)** supaya kamu bisa punya sepasang (VHF + UHF), atau cukup fokus dulu ke VHF?
