@@ -28,18 +28,21 @@
             }
           },
           {
-            "id": "852f8973c4aa5c97",
+            "id": "10aba57488f9ea34",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Content/[Roger_L._Freeman]_Fundamentals_of_Telecommunicati(BookFi).pdf"
+                "file": "category-folder/Portofolio Project/Antenna SAR.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "[Roger_L._Freeman]_Fundamentals_of_Telecommunicati(BookFi)"
+              "icon": "lucide-file",
+              "title": "Antenna SAR"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,14 +193,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "819dd198a4eb0693",
+  "active": "10aba57488f9ea34",
   "lastOpenFiles": [
-    "index.md",
+    "Untitled.canvas",
+    "category-folder/Portofolio Project/Antenna SAR.md",
+    "Tugas.md",
     "Content/[Roger_L._Freeman]_Fundamentals_of_Telecommunicati(BookFi).pdf",
+    "index.md",
     "category-folder/🎓 Kuliah/Semester 3/Teknik Telekomunikasi - Pak Sigit.md",
     "RPS teknik telekomunikasi 2023 kolaboratif.pdf",
     "Content/~$kuliah 3 konsep dB sigit 2022_brone.pptx",
-    "Tugas.md",
     "Content/WhatsApp Image 2025-08-27 at 09.37.27_cc3e7fc8.jpg",
     "category-folder/🎓 Kuliah/Semester 3/REAC - Pak Rusli.md",
     "Content/WhatsApp Image 2025-08-27 at 09.28.41_9f617cf3.jpg",
@@ -210,7 +215,6 @@
     "Content/WhatsApp Image 2025-08-25 at 17.28.21_610da47c.jpg",
     "category-folder/🎓 Kuliah/Semester 3/Dasar Teknik Digital - Pak Nanang.md",
     "category-folder/🎓 Kuliah/Semester 3/Dasar Teknik Digital - Pak Nanang.md",
-    "Untitled.canvas",
     "Excalidraw/Drawing 2025-08-25 23.16.13.excalidraw.md",
     "Content/WhatsApp Image 2025-08-25 at 17.28.22_bf0e09ea.jpg",
     "Content/WhatsApp Image 2025-08-25 at 17.28.22_b2ca5d02.jpg",
