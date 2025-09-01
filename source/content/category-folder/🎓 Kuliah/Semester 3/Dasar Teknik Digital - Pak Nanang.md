@@ -7,3 +7,9 @@
 ![[DTD 3- GERBANG LOGIKA - ALJBR BOOLE.pdf]]
 
 ![[Penyederhanaan Logika dengan Aljabar Boole + latihan soal.pdf]]
+
+### Minggu 2
+![[WhatsApp Image 2025-09-01 at 19.26.05_c103715a.jpg]]
+![[WhatsApp Image 2025-09-01 at 19.26.06_99a1e01c.jpg]]
+![[WhatsApp Image 2025-09-01 at 19.26.06_a4659a51.jpg]]
+![[WhatsApp Image 2025-09-01 at 19.26.07_40560160.jpg]]
