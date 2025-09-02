@@ -138,6 +138,6 @@ vswr(dj, freq, 50)
 ## Gambar
 ![[model.png]]
 
-![[radiation.png]]
+![[Pasted image 20250902225130.png]]
 
 ![[vswr.png]]
